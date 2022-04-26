@@ -1,3 +1,1 @@
-phanmemnangdong.com
-banquyen1.phanmemnangdong.com
-banquyen2.phanmemnangdong.com
+phanmemnangdong.com;banquyen1.phanmemnangdong.com;banquyen2.phanmemnangdong.com
